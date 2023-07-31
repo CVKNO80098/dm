@@ -1,0 +1,13 @@
+	2	正则关键词解析错误，表达式:\n{self}能帮我写(.*)作业吗 | {self}能帮忙写(.*)作业吗 | {self}帮我写(.*)作业 | \nregex_error(error_badrepeat): One of *?+{ was not preceded by a valid regular expression.
+2023-07-02 10:37:05	1	aoe\n注册speech 31 项\n注册help 1 项\n注册reply 120 项\n模块加载完毕√
+2023-07-02 10:37:05	1	\n读取/conf/CustomHelp.json中的1条帮助词条\n读取/conf/CustomMsgReply.json中的120条自定义回复\n扩展配置读取完毕√
+2023-07-02 10:37:05	1	aoe初始化完成，用时1674毫秒
+	1	Dice! WebUI 正于端口58623运行，本地可通过浏览器访问http://localhost:58623\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	0	已成功刷新软件包缓存：37个拓展可用
+	2	正则关键词解析错误，表达式:\n{self}能帮我写(.*)作业吗 | {self}能帮忙写(.*)作业吗 | {self}帮我写(.*)作业 | \nregex_error(error_badrepeat): One of *?+{ was not preceded by a valid regular expression.
+2023-07-02 11:02:40	1	aoe\n注册speech 31 项\n注册help 1 项\n注册reply 120 项\n模块加载完毕√
+2023-07-02 11:02:40	1	\n读取/conf/CustomHelp.json中的1条帮助词条\n读取/conf/CustomMsgReply.json中的120条自定义回复\n扩展配置读取完毕√
+2023-07-02 11:02:40	1	读取用户记录1条 读取群聊记录17条 用户数据读取完毕
+2023-07-02 11:02:40	1	aoe初始化完成，用时1629毫秒
+	1	Dice! WebUI 正于端口58623运行，本地可通过浏览器访问http://localhost:58623\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	0	已成功刷新软件包缓存：37个拓展可用
